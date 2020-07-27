@@ -1,0 +1,6 @@
+V3 3
+FL "D:/verilog programms/BCD_7SEg/BCD_to_7seg.vhd" 2020/05/05.21:23:10 P.20131013
+EN work/BCD_to_7seg 1588693994 FL "D:/verilog programms/BCD_7SEg/BCD_to_7seg.vhd" \
+      PB ieee/std_logic_1164 1381692176
+AR work/BCD_to_7seg/Behavioral 1588693995 \
+      FL "D:/verilog programms/BCD_7SEg/BCD_to_7seg.vhd" EN work/BCD_to_7seg 1588693994
